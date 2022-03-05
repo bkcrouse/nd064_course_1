@@ -1,0 +1,10 @@
+apiVersion: v1
+name: techtrends
+description: Udacity Cloud Native Application Architecture, Techtrends Project
+keywords:
+- techtrends
+version: 1.0.0
+home: https://github.com/bkcrouse/nd064_course_1/tree/main/project/helm
+maintainers:
+- name: BC
+  email: brian.crouse@outlook.com
