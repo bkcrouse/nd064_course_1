@@ -3,7 +3,7 @@ name: Python version
 ## Set the trigger policy.
 ## In this case, the workflow is execute on a `push` event,
 ## or when a new commit is pushed to the repository
-on: [push]
+##on: [push]
 ## List the steps to be executed by the workflow
 jobs:
   ## Set the name of the job
