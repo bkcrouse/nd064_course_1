@@ -1,4 +1,4 @@
-name: Manual Workflow
+name: TechTrends - Package with Docker
 
 on:
   push:
